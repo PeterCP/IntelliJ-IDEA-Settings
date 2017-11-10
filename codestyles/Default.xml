@@ -1,11 +1,7 @@
 <code_scheme name="Default">
   <option name="RIGHT_MARGIN" value="100" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <PHPCodeStyleSettings>
-    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
-    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
-    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
-  </PHPCodeStyleSettings>
+  <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
@@ -30,6 +26,11 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+  </PHPCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
